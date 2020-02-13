@@ -1,8 +1,8 @@
-/*Amanda Lara - Exercícios Lista Dia 1
+/*Amanda Lara - ExercÃ­cios Lista Dia 1
 11/02/2020
 */
 
-// 1.1 - Identação
+// 1.1 - IdentaÃ§Ã£o
 #include <stdio.h>
 int main(){
     int saldo = 500;
