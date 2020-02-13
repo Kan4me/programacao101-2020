@@ -1,8 +1,8 @@
-/*Amanda Lara - Exercícios Lista Dia 1
+/*Amanda Lara - ExercÃ­cios Lista Dia 1
 11/02/2020
 */
 
-//Correção do código
+//CorreÃ§Ã£o do cÃ³digo
 
 //1.2 a) a d)
 #include <stdio.h>
