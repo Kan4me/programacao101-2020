@@ -1,8 +1,8 @@
-/*Amanda Lara - ExercÌcios Lista Dia 1
+/*Amanda Lara - Exerc√≠cios Lista Dia 1
 11/02/2020
 */
 
-//ConstruÁ„o de uma calculadora
+//Constru√ß√£o de uma calculadora
 
 #include <stdio.h>
 #include <math.h>
@@ -22,10 +22,10 @@ int main(){
     r3 = a * b;
     r4 = a / b;
 
-    printf("A Soma È: %.5f \n", r1);
-    printf("A SubtraÁ„o È: %.5f \n", r2);
-    printf("O Produto È: %.5f \n", r3);
-    printf("A Divis„o È: %.5f \n", r4);
+    printf("A Soma √©: %.5f \n", r1);
+    printf("A Subtra√ß√£o √©: %.5f \n", r2);
+    printf("O Produto √©: %.5f \n", r3);
+    printf("A Divis√£o √©: %.5f \n", r4);
 
 return 0;
 }
