@@ -1,4 +1,4 @@
-/*Amanda Lara - Exercícios Lista Dia 1
+/*Amanda Lara - ExercÃ­cios Lista Dia 1
 13/02/2020
 */
 
@@ -8,7 +8,7 @@
 #include <math.h>
 
 int main(){
-    int dias_tot, anos, mod_ano, meses, mod_meses, dias;
+    int dias_tot, anos, mod_ano, meses, dias;
 
     printf("Digite o total de dias: \n");
     scanf( "%d", &dias_tot);
@@ -16,7 +16,6 @@ int main(){
     anos = dias_tot / 365;
     mod_ano = dias_tot % 365;
     meses = mod_ano / 30;
-    mod_meses = meses % 30;
     dias = dias_tot - ((365 * anos) + (30 * meses));
 
     printf("Uma pessoa com %d dias possui %d anos, %d meses e %d dias de vida \n",
