@@ -2,7 +2,8 @@
 13/02/2020
 */
 
-//Consumo de gasolina de um carro que faz 7km/L com um tanque de 45L de capacidade
+//Consumo de gasolina de um carro que faz 7km/L com um tanque de 45L de 
+//capacidade
 
 #include <stdio.h>
 #include <math.h>
