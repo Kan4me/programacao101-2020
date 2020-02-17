@@ -5,7 +5,6 @@
 //Lista vetor Aula 4 - Apresentar a posicao do valor x no vetor
 
 #include <stdio.h>
-#include <math.h>
 #include <stdlib.h>
 
 int main(){
