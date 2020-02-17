@@ -2,7 +2,7 @@
 14/02/2020
 */
 
-//Ecercicio 1001 URI
+//Exercicio 1001 URI
 
 #include <stdio.h>
 #include <math.h>
