@@ -10,7 +10,6 @@
 #include <stdlib.h>
 
 
-
 int main(){
   char palavra[20];
 
