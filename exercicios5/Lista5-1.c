@@ -6,7 +6,6 @@
 //string eh um vetor de char! Espaco eh considerado uma posicao no vetor!
 
 #include <stdio.h>
-#include <math.h>
 #include <stdlib.h>
 
 
