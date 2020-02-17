@@ -6,7 +6,6 @@
 //string eh um vetor de char!
 
 #include <stdio.h>
-#include <math.h>
 #include <stdlib.h>
 
 
