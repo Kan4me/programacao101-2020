@@ -2,7 +2,7 @@
 17/02/2020
 */
 
-//Lista vetor Aula 4 - 10 primeiros números ímpares
+//Lista vetor Aula 4 - print 10 primeiros números ímpares
 
 #include <stdio.h>
 #include <math.h>
@@ -19,7 +19,7 @@ int main(){
     }
 
     for (i = 0; i < 10; i ++){
-        printf ("%d \n",vector[i]);
+        printf("%d \n",vector[i]);
     }
 
 return 0;
