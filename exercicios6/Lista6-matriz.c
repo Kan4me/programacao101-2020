@@ -27,6 +27,7 @@ int main(){
       } 
   }
 
+    printf("A matriz é: \n");
   for (i = 0; i <= line - 1; i ++){
       for (j = 0; j <= column - 1; j ++){
           printf("%d ", matrix[i][j]);
