@@ -3,7 +3,7 @@
 */
 
 //Lista string Aula 5 - Manipulacao de matrizes
-//Matriz interativa
+//Matriz interativa e transposta
 
 #include <stdio.h>
 #include <math.h>
@@ -29,6 +29,14 @@ int main(){
 
   for (i = 0; i <= line - 1; i ++){
       for (j = 0; j <= column - 1; j ++){
+          printf("%d ", matrix[i][j]);
+      } 
+      printf("\n");
+  }
+
+  printf("A matriz transposta é: \n");
+  for (j = 0; j <= column - 1; j ++){
+      for (i = 0; i <= line - 1; i ++){
           printf("%d ", matrix[i][j]);
       } 
       printf("\n");
