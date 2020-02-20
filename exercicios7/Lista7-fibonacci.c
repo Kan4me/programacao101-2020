@@ -1,4 +1,3 @@
-  
 /*Amanda Lara - Exercícios Lista Dia 6
 20/02/2020
 */
